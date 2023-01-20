@@ -1,0 +1,20 @@
+body{
+    background-color: pink;
+}
+
+h1{
+    background-color: blue;
+    color: red;
+}
+
+a:link{
+    background-color: purple;
+    color: white;
+}
+
+a:visited{
+    color: red;
+}
+a:hover{
+    color:yellow;
+}
